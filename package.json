@@ -1,0 +1,37 @@
+{
+  "name": "techrish-chat-app",
+  "version": "1.0.0",
+  "description": "Chat application build using nodejs, mongodb with angularjs framework for frontend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  	"bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "jade": "1.11.0",
+	"jsonwebtoken": "7.2.1",
+    "mongoose": "4.7.6",
+    "morgan": "^1.7.0",
+    "nodemon": "1.11.0",
+    "socket.io": "1.4.8",
+    "winston": "^2.3.0",
+    "winston-daily-rotate-file": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajithv11/techrish-chat-app"
+  },
+  "keywords": [
+    "Nodejs",
+    "Chat",
+    "AngularJS"
+  ],
+  "author": "Ajith <ajithv11@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajithv11/techrish-chat-app/issues"
+  },
+  "homepage": "https://github.com/ajithv11/techrish-chat-app"
+}

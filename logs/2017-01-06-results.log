@@ -1,0 +1,4 @@
+{"level":"error","message":"Error: User Insertion, ValidationError: Email field is required, Username field is required, First name is required","timestamp":"10:50:25 AM"}
+{"level":"error","message":"Error: User Insertion, ValidationError: Email field is required, Username field is required, First name is required","timestamp":"2:45:42 PM"}
+{"level":"error","message":"Error: User Insertion, ValidationError: Email field is required, Username field is required, First name is required","timestamp":"3:04:30 PM"}
+{"level":"error","message":"Error: User Insertion, ValidationError: Email field is required, Username field is required, First name is required","timestamp":"7:35:23 PM"}

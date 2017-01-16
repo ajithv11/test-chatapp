@@ -1,0 +1,11 @@
+{"level":"verbose","message":"Verbose info","timestamp":"7:17:29 PM"}
+{"level":"info","message":"Hello world","timestamp":"7:17:30 PM"}
+{"level":"warn","message":"Warning message","timestamp":"7:17:30 PM"}
+{"level":"error","message":"Error info","timestamp":"7:17:30 PM"}
+{"level":"verbose","message":"Verbose info","timestamp":"7:17:41 PM"}
+{"level":"info","message":"Hello world","timestamp":"7:17:41 PM"}
+{"level":"warn","message":"Warning message","timestamp":"7:17:41 PM"}
+{"level":"error","message":"Error info","timestamp":"7:17:41 PM"}
+{"level":"error","message":"Error info","timestamp":"7:18:41 PM"}
+{"level":"error","message":"Error info!!!!!!!!","timestamp":"7:18:56 PM"}
+{"level":"error","message":"Error info!!!!!!!!ValidationError: Path `user_type` is required., Path `password` is required., Path `username` is required.","timestamp":"7:19:24 PM"}
